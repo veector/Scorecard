@@ -76,7 +76,6 @@ SCRCD.vCurrentRound = Backbone.View.extend({
 				console.log(response);
 			}
 		})
-
 	}
 });
 
