@@ -1,0 +1,53 @@
+{
+    "_id": 1,
+    "course_id": 1,
+    "players": [
+            {
+                "_id": 1,
+                "name": "Sean Stamouli",
+                "handicap": 10,
+                "score": [
+                    {
+                        "hole": 1,
+                        "strokes": 4,
+                        "putts": 1,
+                        "fir": false,
+                        "gir": true,
+                        "tshot": "left"
+                    },
+                    {
+                        "hole": 2,
+                        "strokes": 4,
+                        "putts": 1,
+                        "fir": false,
+                        "gir": true,
+                        "tshot": "left"
+                    }
+                ]
+            },
+            {
+                "_id": 2,
+                "name": "Tahsin Shamma",
+                "handicap": 20,
+                "score": [
+                    {
+                        "hole": 1,
+                        "strokes": 4,
+                        "putts": 1,
+                        "fir": false,
+                        "gir": true,
+                        "tshot": "left"
+                    },
+                    {
+                        "hole": 2,
+                        "strokes": 4,
+                        "putts": 1,
+                        "fir": false,
+                        "gir": true,
+                        "tshot": "left"
+                    }
+                ]
+            }
+        ]
+}
+

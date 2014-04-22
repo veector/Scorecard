@@ -1,0 +1,19 @@
+{
+    "_id": 1,
+    "name": "Pembroke Country Club",
+    "courses": [
+            {
+                "name": "Village Green",
+                "teename": "white",
+                "holes": [
+                        {
+                            
+                        }
+                    ]
+                "par": 71,
+            }
+        ],
+    
+    }
+
+
